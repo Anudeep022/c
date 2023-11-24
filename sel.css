@@ -1,0 +1,43 @@
+#hl{
+    background-color: aquamarine;
+    color: blanchedalmond;
+}
+
+th{
+    background-color: blanchedalmond;
+    color: darkblue;
+}
+
+
+#s1{
+    background-color: orchid;
+    color:gray;
+}
+
+#s2{
+    background-color: gray;
+    color:orchid;
+}
+
+
+.e1
+{
+    background-color: blueviolet;
+    color:brown;
+}
+
+p{
+    background-color: darkorange;
+    color: aquamarine;
+}
+
+h3,u,i{
+    background-color: darkgoldenrod;
+    color: aquamarine;
+}
+
+
+*{
+    background-color: palegreen;
+
+}
